@@ -1,0 +1,1 @@
+/** @type {import('tailwindcss').Config} */ export default { content: ['./index.html','./src/**/*.{js,ts,jsx,tsx}'], theme: { extend: { colors: { ivory:'#F7F4EE', sand:'#E9E1D5', gold:'#B49A72', taupe:'#95836D', ink:'#302A25' }, fontFamily: { display:['Cormorant Garamond','serif'], sans:['DM Sans','sans-serif'] } } }, plugins: [] }
